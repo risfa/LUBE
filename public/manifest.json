@@ -1,0 +1,30 @@
+{
+  "short_name": "Dr.LUBE",
+  "name": "Dr.LUBE",
+  "theme_color": "#9f8200",
+  "background_color": "#9f8200",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+       "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+       "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }, 
+    {
+       "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://joker.5dapps.com/pertamina/drlube/"
+}

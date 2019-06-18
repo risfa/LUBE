@@ -1,0 +1,15 @@
+{
+  "short_name": "Dr.Lube",
+  "name": "Dr.Lube",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "start_url": "public/img/Icon-01.png")",
+  "background_color": "#ffffff",
+  "Theme_color": "#ffffff",
+  "display": ""
+}

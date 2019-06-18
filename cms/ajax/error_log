@@ -1,0 +1,33 @@
+[22-Jan-2019 08:40:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 11
+[22-Jan-2019 08:40:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 6
+[22-Jan-2019 08:40:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 8
+[22-Jan-2019 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 6
+[22-Jan-2019 08:40:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 8
+[22-Jan-2019 08:41:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 6
+[22-Jan-2019 08:41:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 8
+[22-Jan-2019 08:41:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 6
+[22-Jan-2019 08:41:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 8
+[22-Jan-2019 08:41:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 6
+[22-Jan-2019 08:41:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 8
+[22-Jan-2019 08:43:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 7
+[22-Jan-2019 08:43:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 9
+[22-Jan-2019 08:44:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 7
+[22-Jan-2019 08:44:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 9
+[22-Jan-2019 08:44:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 7
+[22-Jan-2019 08:44:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 9
+[22-Jan-2019 08:46:14 UTC] PHP Warning:  require(../../connect.php): failed to open stream: No such file or directory in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 2
+[22-Jan-2019 08:46:14 UTC] PHP Fatal error:  require(): Failed opening required '../../connect.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 2
+[22-Jan-2019 10:29:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getVehicle.php on line 6
+[22-Jan-2019 10:30:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getVehicle.php on line 6
+[22-Jan-2019 10:30:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getVehicle.php on line 6
+[22-Jan-2019 10:30:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getVehicle.php on line 6
+[22-Jan-2019 10:36:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getCar.php on line 9
+[24-Jan-2019 09:15:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:17:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:19:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:20:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:20:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:23:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:26:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:32:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3
+[24-Jan-2019 09:36:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dapps/public_html/JOKER/pertamina/lubricantapp/cms/ajax/getBrand.php on line 3

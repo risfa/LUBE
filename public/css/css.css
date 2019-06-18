@@ -1,0 +1,240 @@
+
+<style>
+*
+{
+	font-family: 'Poppins', sans-serif !important;
+
+}
+#icon:hover
+{
+  background-color:  #d2a300;
+  color: white !important;
+}
+#isian
+{
+	height: 7vh;
+}
+#page-wrapper
+{
+	min-height: 700px;
+}
+
+@media all and (orientation:portrait) {
+		#turn
+		{
+			display: none;
+
+		}
+}
+
+@media all and (orientation:landscape) {
+	#turn
+	{
+		display: block;
+		position: fixed !important;
+	}
+}
+
+@media (min-width: 992px)
+{
+	#page-wrapper
+	{	
+		min-height: 700px !important;
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#header
+	{	
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+#page-wrapper
+	{	
+		min-height: 700px !important;
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#header
+	{	
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 600px !important;
+		margin-left: 29.5vw !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+	}
+
+/*ipad*/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation:portrait)
+ {
+ 	#page-wrapper
+	{
+		max-width: 1024px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#header
+	{	
+		max-width: 1024px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 1024px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+		
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+ }
+
+ /*@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)
+ {
+ 	#page-wrapper
+	{
+		max-width: 600px !important;
+		margin-left: 215px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#header
+	{	
+		max-width: 600px !important;
+		margin-left: 215px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 600px !important;
+		margin-left: 215px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+		
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+ }*/
+
+/*ipad pro*/
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
+ 	#page-wrapper
+	{
+		max-width: 600px !important;
+		margin-left: 25% !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+		min-height: 1000px !important;
+	}
+	#header
+	{	
+		max-width: 600px !important;
+		margin-left: 25% !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 600px !important;
+		margin-left: 25% !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+}
+
+
+ @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+ 	#page-wrapper
+	{
+		max-width: 600px !important;
+		margin-left: 225px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#header
+	{	
+		max-width: 600px !important;
+		margin-left: 225px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+	}
+	#menubar
+	{
+		max-width: 600px !important;
+		margin-left: 225px !important;
+		border-left: 1px solid lightgrey;
+		border-right: 1px solid lightgrey;
+		bottom: 0 !important;
+	}
+	.icon
+	{
+		width: 40% !important;
+	}
+	#turn
+	{
+		display: none;
+	}
+}
+
+
+</style>

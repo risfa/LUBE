@@ -1,0 +1,92 @@
+[24-Jan-2019 09:07:26 UTC] PHP Fatal error:  Call to a member function view() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 11
+[24-Jan-2019 09:07:29 UTC] PHP Fatal error:  Call to a member function view() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 11
+[24-Jan-2019 09:07:34 UTC] PHP Fatal error:  Call to a member function view() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 11
+[25-Jan-2019 10:19:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 9
+[25-Jan-2019 10:19:31 UTC] PHP Fatal error:  Call to a member function ambil_data() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 13
+[25-Jan-2019 10:19:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_mobil.php on line 3
+[25-Jan-2019 10:19:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_mobil.php on line 3
+[26-Jan-2019 14:30:14 UTC] PHP Fatal error:  Call to a member function getbrand() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 15
+[26-Jan-2019 15:07:35 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 11
+[26-Jan-2019 15:15:04 UTC] PHP Parse error:  syntax error, unexpected 'IN' (T_STRING) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 10
+[26-Jan-2019 15:17:21 UTC] PHP Parse error:  syntax error, unexpected 'IdSeries' (T_STRING) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 11
+[28-Jan-2019 03:27:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 19
+[28-Jan-2019 03:28:07 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 21
+[28-Jan-2019 03:28:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 19
+[28-Jan-2019 03:28:33 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 21
+[28-Jan-2019 04:26:20 UTC] PHP Fatal error:  Call to a member function getbrand() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 19
+[28-Jan-2019 04:28:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:28:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:29:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:31:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:31:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:32:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 22
+[28-Jan-2019 04:33:20 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 24
+[28-Jan-2019 04:33:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 24
+[28-Jan-2019 06:41:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 19
+[28-Jan-2019 06:41:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 19
+[28-Jan-2019 06:53:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/drlube/application/models/Mobil.php on line 12
+[28-Jan-2019 09:06:58 UTC] PHP Fatal error:  Call to undefined function baseurl() in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 6
+[29-Jan-2019 07:24:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_motor.php on line 26
+[29-Jan-2019 07:24:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_motor.php on line 26
+[29-Jan-2019 07:50:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 33
+[29-Jan-2019 07:50:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 33
+[29-Jan-2019 07:51:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 34
+[29-Jan-2019 07:51:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 34
+[29-Jan-2019 07:52:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 34
+[29-Jan-2019 08:32:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 35
+[29-Jan-2019 08:34:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 7
+[29-Jan-2019 08:34:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 7
+[29-Jan-2019 08:34:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 9
+[29-Jan-2019 08:35:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 9
+[29-Jan-2019 08:35:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 9
+[31-Jan-2019 03:19:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Mix.php on line 33
+[04-Feb-2019 09:52:58 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/poin.php on line 2
+[11-Feb-2019 07:55:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 6
+[11-Feb-2019 07:55:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 6
+[11-Feb-2019 08:33:31 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 24
+[11-Feb-2019 08:34:15 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 24
+[11-Feb-2019 08:40:28 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 25
+[11-Feb-2019 08:43:13 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 25
+[11-Feb-2019 08:43:14 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 41
+[11-Feb-2019 08:43:15 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 41
+[11-Feb-2019 08:43:15 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Home.php on line 41
+[11-Feb-2019 08:50:07 UTC] PHP Fatal error:  Call to a member function select() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 9
+[12-Feb-2019 06:36:50 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/home.php on line 99
+[12-Feb-2019 06:36:52 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/home.php on line 99
+[12-Feb-2019 06:37:03 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/home.php on line 99
+[12-Feb-2019 06:37:05 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/home.php on line 99
+[12-Feb-2019 08:43:09 UTC] PHP Parse error:  syntax error, unexpected 'png' (T_STRING) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/mix_result.php on line 23
+[13-Feb-2019 07:33:58 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Poin.php on line 23
+[13-Feb-2019 08:36:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 17
+[13-Feb-2019 10:13:14 UTC] PHP Fatal error:  Call to undefined function form_submit() in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/account.php on line 41
+[13-Feb-2019 14:50:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 59
+[14-Feb-2019 07:16:49 UTC] PHP Fatal error:  Call to a member function post() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 12
+[14-Feb-2019 07:16:50 UTC] PHP Fatal error:  Call to a member function post() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 12
+[14-Feb-2019 07:18:09 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 7
+[14-Feb-2019 07:18:12 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 7
+[14-Feb-2019 07:18:13 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 7
+[14-Feb-2019 07:18:31 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 7
+[14-Feb-2019 07:18:54 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 13
+[14-Feb-2019 07:18:55 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 13
+[14-Feb-2019 07:19:31 UTC] PHP Fatal error:  Call to a member function post() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 14
+[14-Feb-2019 07:19:50 UTC] PHP Fatal error:  Call to a member function select() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 16
+[14-Feb-2019 07:19:52 UTC] PHP Fatal error:  Call to a member function select() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 16
+[14-Feb-2019 07:19:59 UTC] PHP Fatal error:  Call to a member function select() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 16
+[14-Feb-2019 07:20:02 UTC] PHP Fatal error:  Call to a member function select() on null in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Login.php on line 16
+[14-Feb-2019 07:46:00 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 42
+[14-Feb-2019 07:46:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 42
+[14-Feb-2019 07:46:12 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Account.php on line 42
+[20-Feb-2019 07:17:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Poin.php on line 15
+[20-Feb-2019 07:17:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Poin.php on line 15
+[20-Feb-2019 07:17:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/controllers/Poin.php on line 15
+[20-Feb-2019 07:47:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 37
+[21-Feb-2019 02:52:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 25
+[25-Feb-2019 14:20:18 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:18 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:23 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:34 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:42 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 07:48:49 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
+[27-Feb-2019 08:21:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/dapps/public_html/JOKER/pertamina/drlube/application/views/parts/menubar.php on line 12
